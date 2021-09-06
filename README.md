@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=180&section=header&text=Hi%20There👋&fontSize=30&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=180&section=header&text=Hi%20There👋&fontSize=30&fontAlignY=40&animation=twinkling&desc=Welcome%20JungWooHyeok%20Git%20Hub)
 
 
   ### 🛠 Tech Stack 🛠
