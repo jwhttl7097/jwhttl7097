@@ -24,8 +24,8 @@
   <details>
     <summary> Team </summary>
     <div markdown="1">
-      🎬CINEMA BOX (https://github.com/jwhttl7097/cinemabox.git)
-      ✒TOEIC SPEAKING AND WRITING TEST (https://github.com/jwhttl7097/toeic-speaking.git) <br/>
+      🎬CINEMA BOX (https://github.com/jwhttl7097/cinemabox.git) <br/>
+      ✒TOEIC SPEAKING AND WRITING TEST (https://github.com/jwhttl7097/toeic-speaking.git)
     </div>
   </details>
   
