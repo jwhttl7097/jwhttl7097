@@ -22,15 +22,16 @@
   ### 🗂 Project 🗂
 
   <details>
-    <summary> Team </summary>
+    <summary>🤝 Team </summary>
     <div markdown="1">
-      🎬CINEMA BOX (https://github.com/jwhttl7097/cinemabox.git) <br/>
-      ✒TOEIC SPEAKING AND WRITING TEST (https://github.com/jwhttl7097/toeic-speaking.git)
+      🎬 CINEMA BOX (https://github.com/jwhttl7097/cinemabox.git) <br/>
+      ✒ TOEIC SPEAKING AND WRITING TEST (https://github.com/jwhttl7097/toeic-speaking.git)
+      💄 COSME -진행중-
     </div>
   </details>
   
   <details>
-    <summary> Personal </summary>
+    <summary>🙆‍♀️ Personal </summary>
     <div markdown="1">
       📖GO BLOG (https://github.com/jwhttl7097/goblog.git)
     </div>
