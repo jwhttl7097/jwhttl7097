@@ -25,7 +25,7 @@
     <summary> Team </summary>
     <div markdown="1">
       [SAGOBOJA SHOPPING MALL - 쇼핑몰] (https://github.com/onuo77/Project/tree/main/sb_shoppingmall) <br/>
-      [CINEMA BOX - 영화 예매] (https://github.com/onuo77/Project/tree/main/cinemabox)
+      [CINEMA BOX - 영화 예매] (https://github.com/jwhttl7097/cinemabox.git)
     </div>
   </details>
   
