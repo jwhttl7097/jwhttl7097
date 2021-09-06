@@ -24,15 +24,15 @@
   <details>
     <summary> Team </summary>
     <div markdown="1">
-      [SAGOBOJA SHOPPING MALL - 쇼핑몰] (https://github.com/onuo77/Project/tree/main/sb_shoppingmall) <br/>
-      [CINEMA BOX - 영화 예매] (https://github.com/jwhttl7097/cinemabox.git)
+      🎬CINEMA BOX (https://github.com/jwhttl7097/cinemabox.git)
+      ✒TOEIC SPEAKING AND WRITING TEST (https://github.com/jwhttl7097/toeic-speaking.git) <br/>
     </div>
   </details>
   
   <details>
     <summary> Personal </summary>
     <div markdown="1">
-      [JSP-BLOG - 블로그] (https://github.com/onuo77/Project/tree/main/jspblog)
+      📖GO BLOG (https://github.com/jwhttl7097/goblog.git)
     </div>
   </details>
 
