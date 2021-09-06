@@ -25,7 +25,7 @@
     <summary>🤝 Team </summary>
     <div markdown="1">
       🎬 CINEMA BOX (https://github.com/jwhttl7097/cinemabox.git) <br/>
-      ✒ TOEIC SPEAKING AND WRITING TEST (https://github.com/jwhttl7097/toeic-speaking.git)
+      ✒ TOEIC SPEAKING AND WRITING TEST (https://github.com/jwhttl7097/toeic-speaking.git) <br/>
       💄 COSME -진행중-
     </div>
   </details>
