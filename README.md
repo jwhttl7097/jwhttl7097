@@ -36,7 +36,7 @@
     </div>
   </details>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jwhttl7097&show_icons=true&theme=theme)](https://github.com/jwhttl7097/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jwhttl7097&show_icons=true&theme=theme)]
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwhttl7097&layout=compact)
 
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=40&fontAlignY=40)
