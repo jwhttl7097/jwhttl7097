@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Hi% %There👋&fontSize=40&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Hi %There👋&fontSize=40&fontAlignY=40&animation=twinkling)
 
 
   ### 🛠 Tech Stack 🛠
