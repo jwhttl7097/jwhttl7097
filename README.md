@@ -27,13 +27,16 @@
       [SAGOBOJA SHOPPING MALL - 쇼핑몰] (https://github.com/onuo77/Project/tree/main/sb_shoppingmall) <br/>
       [CINEMA BOX - 영화 예매] (https://github.com/onuo77/Project/tree/main/cinemabox)
     </div>
+  </details>
+  
+  <details>
     <summary> Personal </summary>
     <div markdown="1">
       [JSP-BLOG - 블로그] (https://github.com/onuo77/Project/tree/main/jspblog)
     </div>
   </details>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwhttl7097&show_icons=true&theme=flag-india&hide=prs)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={jwhttl7097}&show_icons=true&theme={theme})](https://github.com/{jwhttl7097}/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwhttl7097&layout=compact)
 
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=40&fontAlignY=40)
