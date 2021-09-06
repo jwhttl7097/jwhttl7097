@@ -1,6 +1,7 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=ㅂㄷ&fontSize=40&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=안녕하세요👋&fontSize=40&fontAlignY=40&animation=twinkling)
+
 
   ### 🛠 Tech Stack 🛠
   
