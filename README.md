@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=180&section=header&text=I'm%20Woohyeok%20Jung👋&fontSize=30&fontAlignY=20&animation=twinkling&desc=Thank%20you%20for%20watching%20my%20github&descAlignY=35&descAlign=49)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=180&section=header&text=I'm%20Woohyeok%20Jung👋&fontSize=30&fontAlignY=20&animation=twinkling&desc=Thank%20you%20for%20watching%20my%20github&descAlignY=35&descAlign=50)
 
 
   ### 🛠 Tech Stack 🛠
